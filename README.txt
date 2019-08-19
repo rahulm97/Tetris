@@ -1,4 +1,3 @@
-CSC2003S Tetris Assignment
 Instructions and information about my game
 
 Once the program is opened, all you have do is compile and run the project and immediately dive into a game of Tetris!
